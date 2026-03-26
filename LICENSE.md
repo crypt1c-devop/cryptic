@@ -1,5 +1,3 @@
-Cryptic Executor: Best undetected Roblox executor for PC, Android, and iOS. Lightning-fast injection, 5000+ script library, advanced anti-detection. Free download with 24/7 Discord support. Join 1.2M+ users now!
-
 # Cryptic Executor — Download BEST Roblox Executor | No Key
 
 ![Downloads](https://img.shields.io/badge/Downloads-400K+-blue?style=for-the-badge&logo=github)
